@@ -1,0 +1,7 @@
+food_item,status,ai_food_match,ai_confidence,menu_suitable,ai_reason
+Chicken Tandoori,No Relevant Image Found,,,,"The image clearly shows Chicken Tandoori, but it has a prominent 'SWASTHI'S RECIPES' watermark in the bottom left corner, making it unsuitable for a clean restaurant menu."
+Paneer Tikka Masala,No Relevant Image Found,,,,"The image clearly shows Paneer Tikka Masala, but it contains a prominent '© Kannan's Kitchen' watermark that makes it unsuitable for a clean restaurant menu."
+Chicken Fried Rice,No Relevant Image Found,,,,"The image clearly shows Chicken Fried Rice and is visually appealing, but it contains a prominent 'NISH KITCHEN' watermark in the bottom right corner, making it unsuitable for a clean restaurant menu."
+Veg Triple Schezwan Fried Rice,No Relevant Image Found,,,,"The image clearly shows noodles, not 'Fried Rice' as requested. Additionally, there is a prominent 'Ranveer Brar' logo."
+Roti,No Relevant Image Found,,,,"The image clearly shows roti, but it is part of a larger thali with many other dishes, not making it the main subject for a dedicated 'Roti' menu item."
+Chicken Tandoori [Half],No Relevant Image Found,,,,"The image clearly shows Chicken Tandoori (half portion), but it contains a prominent 'SWASTHI'S RECIPES' watermark at the bottom, making it unsuitable for a clean menu."
