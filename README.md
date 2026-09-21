@@ -12,6 +12,10 @@ The objective of this project is to automate the collection and processing of fo
 
 Instead of manually searching, downloading, checking, resizing, renaming, and uploading images, the AI agent performs these tasks automatically.
 
+### Screeshots
+<img width="1506" height="876" alt="image" src="https://github.com/user-attachments/assets/5d308db6-96de-4dc9-8d34-5fc6f34cbdff" />
+<img width="1501" height="846" alt="image" src="https://github.com/user-attachments/assets/27b13488-fdf8-4c0c-a676-272912a47bd7" />
+
 ### Automated Workflow
 
 ```text
